@@ -1,0 +1,2 @@
+# bxb-ionic
+ionic build
